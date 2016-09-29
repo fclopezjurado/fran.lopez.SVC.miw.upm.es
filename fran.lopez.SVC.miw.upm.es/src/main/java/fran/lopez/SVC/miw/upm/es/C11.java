@@ -9,6 +9,8 @@ package fran.lopez.SVC.miw.upm.es;
  */
 public class C11 {
 	
+	public C11() {}
+	
 	public String m1() {
 		return "m1";
 	}
