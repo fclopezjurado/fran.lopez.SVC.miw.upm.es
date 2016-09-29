@@ -12,6 +12,9 @@ public class C11 {
 	public C11() {}
 	
 	public String m1() {
+		/**
+		 * m1 error fixed after release 1.0.0.
+		 */
 		return "m1";
 	}
 	
